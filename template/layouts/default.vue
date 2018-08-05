@@ -22,7 +22,7 @@
 <style>
    body {
      background: lightgreen;
-     font-famaly: helvetica, sans-serif;
+     font-family: helvetica, sans-serif;
      position: relative;
    }
    .layout__navigation {
